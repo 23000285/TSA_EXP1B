@@ -1,5 +1,9 @@
 # Ex.No: 1B      CONVERTING NON-STATIONARY SERIES INTO STATIONARY FORM
 
+## Developed By : VENKATANATHAN P R
+
+## Register Number: 212223240173
+
 # Date: 18-06-2025
 
 ### AIM:
