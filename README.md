@@ -93,9 +93,9 @@ plt.show()
 
 ![alt text](<IMAGES/Screenshot 2025-08-18 161522.png>)
 
-### CONCLUSION:
+### RESULT:
 
 The non-stationary airline passenger dataset was successfully transformed into stationary form using differencing, seasonal adjustment, and logarithmic conversion techniques.
 
----
+
 
